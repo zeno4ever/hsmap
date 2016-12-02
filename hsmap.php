@@ -25,7 +25,7 @@ addspace( $array_geo, 'Pixelbar', 4.433988, 51.910111, 'Vierhavensstraat 56',  '
 //spaces with spaceaoi, get open / closed status.
 //Directory at http://spaceapi.net/directory.json
 $hs_array = [
-    "ACKspace"=>"https://ackspace.nl/status.php",
+    "ACKspace"=>"https://ackspace.nl/spaceAPI/",
     //"Bhack"=> "http://api.bhack.nl/SpaceApi",
     "Bitlair" => "https://bitlair.nl/statejson.php",
     "Frack" => "http://frack.nl/spacestate/?api",
